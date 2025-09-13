@@ -152,7 +152,7 @@ export default function HomePage() {
             </div>
             <div className="bg-white p-8 rounded-lg shadow-lg">
               <img
-                src="/free-mock-exam.png"
+                src="/frontend/public/free-mock-exam.png"
                 alt="MockTestAI Dashboard"
                 className="w-full h-auto rounded-lg"
               />
