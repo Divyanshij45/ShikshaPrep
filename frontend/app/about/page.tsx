@@ -32,7 +32,7 @@ export default function AboutPage() {
             </p>
           </div>
           <div className="bg-gradient-to-br from-blue-50 to-indigo-100 p-8 rounded-lg">
-            <img src="/frontend/public/mission.jpg" alt="Our Mission" className="w-full h-auto rounded-lg" />
+            <img src="/mission.jpg" alt="Our Mission" className="w-full h-auto rounded-lg" />
           </div>
         </div>
 

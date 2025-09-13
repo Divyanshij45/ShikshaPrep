@@ -11,7 +11,7 @@ const GetStarted = () => {
     <>
       <Link href={user.user ? "/dashboard" : "/signup"}>
         <Button size="lg" className="text-lg px-8 py-3">
-          Get Started Free
+          Get Started 
           <ArrowRight className="ml-2 h-5 w-5" />
         </Button>
       </Link>
